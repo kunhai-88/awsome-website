@@ -51,13 +51,7 @@
 </iframe>
 
 [https://lucidmotors.com/](https://lucidmotors.com/)
-<iframe 
-    height=450
-    width=800
-    src="https://lucidmotors.com/" 
-    frameborder=0
-    allowfullscreen >
-</iframe>
+
 
 [https://www.rainforestfoods.com](https://www.rainforestfoods.com/experience/#!/slide-flamingo)
 <iframe 
